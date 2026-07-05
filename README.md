@@ -1,16 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Akshat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=50&center=true&vCenter=true&width=550&height=70&color=4493F8&duration=4000&lines=Hi+There!+🤘🏼;+I'm+MACROS!🤌🏻🤌🏻🤌🏻;" />
 </h1>
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=macros144&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="macros144's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=macros144&theme=transparent&count_private=true&border_radius=10&locale=en" alt="macros144's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=macros144&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="macros144's Most Used Languages" />
-</div>
-
-<hr>
 
 ##
 An Electronics and Telecommunication Engineering student who loves building projects at the intersection of **Electronics, Embedded Systems, IoT and Wireless Communication**.
